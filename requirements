@@ -1,8 +1,4 @@
-pandas as pd
-matplotlib.pyplot as plt
-from wordcloud : WordCloud, STOPWORDS
-from sklearn.model_selection : train_test_split
-from sklearn.pipeline : Pipeline
-from sklearn.feature_extraction.text : TfidfVectorizer
-from sklearn.naive_bayes : MultinomialNB
-from sklearn.metrics : confusion_matrix,accuracy_score,classification_report
+pandas
+numpy
+streamlit
+sklearn
